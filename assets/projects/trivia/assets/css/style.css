@@ -1,0 +1,88 @@
+body {
+    background-image:url(../images/castle.png);
+    
+    background-size:cover;
+    background-attachment: fixed
+}
+
+.intro{
+    font-family: 'Iceberg', cursive;
+    color:rgb(4, 57, 82);
+}
+
+#mid_game_container {
+    opacity: .55;  
+    border: 2px solid black;
+    border-style: solid;
+    padding: 2%;
+    background-color:white;
+    height: auto;
+    color:black;
+    width: 50%; 
+
+   }
+   
+   
+#start_button{
+    
+    height: 75px;
+    width: 250px;
+    height: 112px;
+    font-family: 'Iceberg', cursive;
+	font-size: 40px;
+    background-color:blue;
+    color:whitesmoke;
+    border:blue;
+    border-radius: 10px;
+
+	}
+
+
+#done_button{
+   
+    margin: 20px;
+	height: 90px;
+    width: 250px;
+    font-family: 'Germania One', cursive;
+    font-size: 40px;
+    background-color: black;
+    color: red;
+    border-width:2px;
+    border-style: solid;
+    border-color: black;
+	border-radius: 10px;
+	
+	
+
+	
+}
+
+
+#end_container {
+
+	
+        
+    position: relative;
+    left: 259px;
+    bottom: 48px;
+    font-family: 'Germania One', cursive;
+    background-color:black;
+    border-style: solid;
+	border-width: 5px;
+	border-color: red;
+	border-radius: 10px;
+    color:red;
+	width:42%
+}
+
+
+
+
+
+
+#done{
+	font-size: 35px;
+}
+
+
+

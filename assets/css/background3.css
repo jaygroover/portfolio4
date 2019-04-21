@@ -1,0 +1,11 @@
+body{
+    
+    background-size: cover;
+    background-color: blue;
+    
+   }
+
+
+   html{
+    min-height:100%
+   }

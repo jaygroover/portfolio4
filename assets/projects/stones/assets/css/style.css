@@ -1,0 +1,78 @@
+.instruction{
+    border: 2px solid black;
+    padding: 2%;
+    background-color:white;
+    opacity: 0.6;
+    font-family:'lobster',cursive,'sans-serif';
+    color:black;
+}
+
+.randomNumber{
+    border: 2px solid black;
+    padding: 3%;
+    background-color:white;
+    opacity:0.6;
+    color:black;
+    font-size:200%;
+    font: size 200%;font-family:'lobster',cursive,'sans-serif';
+}
+
+.totalWL{
+    border: 2px solid black;
+    padding: 2%;
+    background-color:white;
+    opacity:0.6;
+    font-family: 'Lobster', cursive, 'sans-serif';
+}
+
+
+
+.scoreDisplay{
+    border:2px solid black;
+    padding: 3%;
+    background-color: white;
+    opacity: 0.6;
+    color:black;
+    font-size: 200%;
+    font-family: 'Lobster', cursive, 'sans-serif'; 
+}
+
+.wallpaper{
+    background-image:url(../images/thanos.jpg);
+    background-size: cover;
+}
+
+.header{
+    font-family: 'Lobster', cursive, 'sans-serif'; 
+      color: black;
+}
+ 
+
+.wins, .losses{
+    border:2px solid black;
+    padding: 2%;
+    color:black;
+    background-color: white;
+}
+
+
+button{
+position: relative;
+left: -1%;
+top:20%;
+
+
+
+}
+
+#end_container{
+position: relative;
+top: -831px;
+bottom: 100px;
+opacity: 1;
+width:100%;
+background-color:white;
+color: black;  
+
+
+}

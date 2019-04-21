@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/scad.png);
+    background-size: cover;
+    
+   }
+
+
+   html{
+    min-height:100%
+   }

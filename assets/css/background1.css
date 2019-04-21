@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/Laptop.jpg);
+    background-size: cover;
+    
+   }
+
+
+   html{
+    min-height:100%
+   }

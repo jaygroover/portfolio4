@@ -1,0 +1,51 @@
+body{
+    background-image:url(../images/Mlogo.gif);
+    background-size:cover;
+    background-attachment: fixed;
+    
+    font-family: 'Bangers', cursive;
+    }
+
+    h1{
+        color: rgba(158, 134, 134, 0.664);
+        font-weight: bold;
+    }
+
+
+    @media  screen and (max-width: 980px) {
+        /* For mobile phones: */
+        [class*="body"] {
+          width: 100%;
+          background-size:100%;
+          
+        }
+      }
+      
+      @media  screen and (max-width: 768px) {
+        
+        [class*="body"] {
+            width: 100%;
+            background-size:100%;
+            
+          }
+        }
+      
+      
+      
+      @media  screen and (max-width: 670px) {
+        /* For mobile phones: */
+        [class*="body"] {
+          width: 100%;
+          background-size:100%;
+         
+
+        }
+      }
+      
+      @media  screen and (max-width: 640px) {
+        /* For mobile phones: */
+        [class*="body"] {
+          width: 100%;
+          background-size:100%;
+        }
+        
