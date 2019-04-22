@@ -4,17 +4,19 @@
   body{
     background-color:#010125;
      background-size: cover; 
-     color:black:
      font-family: 'Crete Round', serif;
      /*background-image: url(../images/scad.png);
      background-size: cover;*/
    }
+     
 
    html{
     min-height:100%
 
 }
-    
+  
+
+ 
   header{
     z-index: 999;
     position: fixed;
@@ -34,6 +36,9 @@
   }
 
   
+
+
+
 
   #info{
     text-align: center;
@@ -69,6 +74,44 @@
     width: 207px;
     border-radius: 169px 171px 171px 171px;  
   }
+
+ .text{
+  color:black;
+}
+
+a.button {
+ 
+  display: inline-block;
+  width: 200px;
+  height: 44px;
+  line-height: 45px;
+  vertical-align: text-middle;
+  text-align: center;
+  color: #ebe6eb;
+  background-color: aqua;
+  font-family: Zenhei;
+  
+  text-shadow: #222222 1px 1px 0;
+}
+
+a.button:hover{
+  background: #383;
+}
+
+
+.movie{
+  position: relative;
+  background-color: black;
+  font-size: large;
+  text-align: center;
+  color:white;
+  width: 297px;
+  height: 33px;
+  max-width: 100%;
+  left: 2px;
+  top: -51px; 
+  z-index: 1;
+}
 
   h3{
 
@@ -111,6 +154,7 @@ html{
 
 }
 
+
 .sidenav {
     height: 100%;
     width: 0;
@@ -118,7 +162,8 @@ html{
     z-index: 2;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: black;
+   
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -139,12 +184,14 @@ html{
   }
 
   .sidenav .closebtn {
+    color: #ebe6eb;
     position: absolute;
     top: 0;
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
   }
+   
   
   @media screen and (max-height: 450px) {
     
