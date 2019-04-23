@@ -5,6 +5,14 @@ body {
     background-attachment: fixed
 }
 
+
+
+html{
+    min-height:100%
+
+}
+
+
 .intro{
     font-family: 'Iceberg', cursive;
     color:rgb(4, 57, 82);

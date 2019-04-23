@@ -6,6 +6,12 @@ body{
     font-family: 'Bangers', cursive;
     }
 
+
+    html{
+      min-height:100%
+  
+  }
+
     h1{
         color: rgba(158, 134, 134, 0.664);
         font-weight: bold;

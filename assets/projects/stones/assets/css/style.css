@@ -7,6 +7,12 @@
     color:black;
 }
 
+
+html{
+    min-height:100%
+
+}
+
 .randomNumber{
     border: 2px solid black;
     padding: 3%;

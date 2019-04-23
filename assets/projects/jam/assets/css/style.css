@@ -21,6 +21,11 @@ body{
     font-size:14px;
 }
 
+html{
+    min-height:100%
+
+}
+
 body:before{
     content: "";
     position: fixed;
