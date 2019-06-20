@@ -1,0 +1,36 @@
+body{
+    background-image:url(../images/central.jpg);
+    background-size: cover;
+    font-family: 'Bree Serif', serif;
+    /*background-color: rgb(15, 4, 54);*/
+}
+
+
+
+.jumbotron {
+    color: antiquewhite;
+    background-image:url(../images/licensingimg1.jpg);
+}
+    
+
+.card-header {
+    background-color: rgba(4, 128, 4, 0.644);
+}
+
+.card-body{
+
+    background-color: bisque;
+
+}
+
+#schedule-head {
+    background-color: rgba(4, 128, 4, 0.644);
+}
+
+
+.btn {
+
+background-color: rgba(4, 128, 4, 0.644);
+
+
+}

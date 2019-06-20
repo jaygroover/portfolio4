@@ -2,7 +2,7 @@
 
 
   body{
-    background-color:#010125;
+    background-color:#010125c5;
      background-size: cover; 
      font-family: 'Crete Round', serif;
      /*background-image: url(../images/scad.png);
@@ -36,9 +36,6 @@
   }
 
   
-
-
-
 
   #info{
     text-align: center;
@@ -99,7 +96,7 @@ a.button:hover{
 }
 
 
-.movie{
+h1{
   position: relative;
   background-color: black;
   font-size: large;
@@ -108,10 +105,11 @@ a.button:hover{
   width: 297px;
   height: 33px;
   max-width: 100%;
-  left: 2px;
+  left: 1px;
   top: -51px; 
   z-index: 1;
 }
+
 
   h3{
 

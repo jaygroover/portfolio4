@@ -28,7 +28,7 @@ $("#submit").on("click", function () {
 
   
   
-  $('a[href="home.html"]').on("click", function(){
+  $('#contact').on("click", function(){
     
     $("body").css("background-image","url(assets/images/scad.png)");
     //$("h1").hide ();
